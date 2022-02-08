@@ -1,0 +1,2 @@
+C:\Users\Purusottam\source\repos\ASPCRUD\ASPCRUD\obj\Debug\ASPCRUD.csprojAssemblyReference.cache
+C:\Users\Purusottam\source\repos\ASPCRUD\ASPCRUD\obj\Debug\ASPCRUD.csproj.CoreCompileInputs.cache

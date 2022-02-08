@@ -1,0 +1,24 @@
+﻿using System;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Crud_operation_in_ado.Models
+{
+    internal class SkillsValidateAttribute : Attribute
+    {
+        public string[] Allowed { get; set; }
+        public string ErrorMessage { get; set; }
+        public IEnumerable<ModelValidationResult> Validate(ModelValidationContext context)
+        {
+
+            if (Allowed.Contains(context.Model as string))
+                return Enumerable.Empty<ModelValidationResult>();
+            else
+                return new List<ModelValidationResult> {
+                    new ModelValidationResult("", ErrorMessage)
+                };
+        }
+    }
+}

@@ -1,0 +1,16 @@
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\bin\Debug\net5.0\c sharp practice.deps.json
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\bin\Debug\net5.0\c sharp practice.dll
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\bin\Debug\net5.0\ref\c sharp practice.dll
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\bin\Debug\net5.0\c sharp practice.pdb
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\obj\Debug\net5.0\c sharp practice.csproj.AssemblyReference.cache
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\obj\Debug\net5.0\c sharp practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\obj\Debug\net5.0\c sharp practice.AssemblyInfoInputs.cache
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\obj\Debug\net5.0\c sharp practice.AssemblyInfo.cs
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\obj\Debug\net5.0\c sharp practice.csproj.CoreCompileInputs.cache
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\obj\Debug\net5.0\c sharp practice.dll
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\obj\Debug\net5.0\ref\c sharp practice.dll
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\obj\Debug\net5.0\c sharp practice.pdb
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\bin\Debug\net5.0\c sharp practice.exe
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\bin\Debug\net5.0\c sharp practice.runtimeconfig.json
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\bin\Debug\net5.0\c sharp practice.runtimeconfig.dev.json
+C:\Users\Purusottam\source\repos\c sharp practice\c sharp practice\obj\Debug\net5.0\c sharp practice.genruntimeconfig.cache

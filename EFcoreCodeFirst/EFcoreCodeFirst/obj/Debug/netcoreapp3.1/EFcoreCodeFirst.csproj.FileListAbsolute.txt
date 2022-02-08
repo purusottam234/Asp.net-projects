@@ -1,0 +1,7 @@
+C:\Users\Purusottam\source\repos\EFcoreCodeFirst\EFcoreCodeFirst\obj\Debug\netcoreapp3.1\EFcoreCodeFirst.csprojAssemblyReference.cache
+C:\Users\Purusottam\source\repos\EFcoreCodeFirst\EFcoreCodeFirst\obj\Debug\netcoreapp3.1\EFcoreCodeFirst.AssemblyInfoInputs.cache
+C:\Users\Purusottam\source\repos\EFcoreCodeFirst\EFcoreCodeFirst\obj\Debug\netcoreapp3.1\EFcoreCodeFirst.AssemblyInfo.cs
+C:\Users\Purusottam\source\repos\EFcoreCodeFirst\EFcoreCodeFirst\obj\Debug\netcoreapp3.1\EFcoreCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Purusottam\source\repos\EFcoreCodeFirst\EFcoreCodeFirst\obj\Debug\netcoreapp3.1\EFcoreCodeFirst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Purusottam\source\repos\EFcoreCodeFirst\EFcoreCodeFirst\obj\Debug\netcoreapp3.1\EFcoreCodeFirst.RazorAssemblyInfo.cache
+C:\Users\Purusottam\source\repos\EFcoreCodeFirst\EFcoreCodeFirst\obj\Debug\netcoreapp3.1\EFcoreCodeFirst.RazorAssemblyInfo.cs
